@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+*History/
+*.log
+*.SchDocPreview
+*.Project Logs for Temperature_Measurement_Device/
+*.rar
+*.Dat
+
+
