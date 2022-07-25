@@ -55,7 +55,9 @@ dkms.conf
 *History/
 *.log
 *.SchDocPreview
-*.Project Logs for Temperature_Measurement_Device/
+*Project Logs for Temperature_Measurement_Device/
+*Project Outputs for Temperature_Measurement_Device/
+*.OutJob
 *.rar
 *.Dat
 
